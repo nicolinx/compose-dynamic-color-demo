@@ -12,6 +12,11 @@ Same screen, same code, only the device wallpaper changed between runs:
 | <img src="docs/wallpaper-blue.png" width="160" alt="Blue wallpaper" /> | <img src="docs/screenshot-blue.png" width="160" alt="App themed from the blue wallpaper" /> |
 | <img src="docs/wallpaper-sunset.png" width="160" alt="Sunset wallpaper" /> | <img src="docs/screenshot-sunset.png" width="160" alt="App themed from the sunset wallpaper" /> |
 | <img src="docs/wallpaper-pink.png" width="160" alt="Pink wallpaper" /> | <img src="docs/screenshot-pink.png" width="160" alt="App themed from the pink wallpaper" /> |
+| <img src="docs/wallpaper-green-approx.png" width="160" alt="Green wallpaper (approximation)" /> | <img src="docs/screenshot-green.png" width="160" alt="App themed from a green wallpaper" /> |
+
+> The green row uses a reconstructed approximation, not the original wallpaper file (that one was
+> the test emulator's built-in default and wasn't saved before it got overwritten). Every other
+> row is an exact wallpaper-to-screenshot pair.
 
 ## What is this?
 
