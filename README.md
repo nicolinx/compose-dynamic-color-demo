@@ -3,18 +3,15 @@
 A Jetpack Compose demo of Material 3's **dynamic color**: every color on screen is generated
 from the user's device wallpaper on Android 12+, with a static fallback theme below that.
 
-<img src="docs/screenshot-green.png" alt="Now Playing screen themed by dynamic color" width="320" />
+### Wallpaper in, theme out
 
-### Same screen, different wallpapers
+Same screen, same code, only the device wallpaper changed between runs:
 
-The screenshots below are the exact same screen and the exact same code, only the device
-wallpaper changed between them:
-
-<p>
-  <img src="docs/screenshot-blue.png" alt="Blue wallpaper theme" width="200" />
-  <img src="docs/screenshot-sunset.png" alt="Sunset wallpaper theme" width="200" />
-  <img src="docs/screenshot-pink.png" alt="Pink wallpaper theme" width="200" />
-</p>
+| Wallpaper | App theme |
+| --- | --- |
+| <img src="docs/wallpaper-blue.png" width="160" alt="Blue wallpaper" /> | <img src="docs/screenshot-blue.png" width="160" alt="App themed from the blue wallpaper" /> |
+| <img src="docs/wallpaper-sunset.png" width="160" alt="Sunset wallpaper" /> | <img src="docs/screenshot-sunset.png" width="160" alt="App themed from the sunset wallpaper" /> |
+| <img src="docs/wallpaper-pink.png" width="160" alt="Pink wallpaper" /> | <img src="docs/screenshot-pink.png" width="160" alt="App themed from the pink wallpaper" /> |
 
 ## What is this?
 
