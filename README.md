@@ -68,3 +68,10 @@ Or just open the project in Android Studio and run the `app` configuration.
 
 To see dynamic color in action, run it on an **Android 12+ device or emulator**, change the
 wallpaper (Settings → Wallpaper & style), and relaunch the app.
+
+## Author
+
+**Nicodemus Lin** — Software Engineer
+
+[![Website](https://img.shields.io/badge/Website-nicolin.dev-4F46E5?style=for-the-badge&logo=globe&logoColor=white)](https://www.nicolin.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicodemus_Lin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicodemus-lin/)
